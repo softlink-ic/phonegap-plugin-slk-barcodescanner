@@ -1,3 +1,15 @@
+# phonegap-plugin-slk-barcodescanner
+
+This plugin is based off https://github.com/phonegap/phonegap-plugin-barcodescanner with an update for Android APK 31 based on the discussion at 
+
+https://forum.ionicframework.com/t/error-when-i-build-with-phonegap-barcodescanner-ionic-native/218337
+
+The gradle dependencies has been changed from compile() to implementation().
+
+Note that Phonegap Barcode Scanner is currently in maintenance mode and is not expected to be updated.
+
+
+
 # PhoneGap Plugin BarcodeScanner
 ================================
 
